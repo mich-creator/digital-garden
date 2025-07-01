@@ -3,3 +3,4 @@
 ---
 
 Cet espace est mon jardin digital où se nichent mes notes.
+[1. Enquête dialogale]
