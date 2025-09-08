@@ -6,6 +6,9 @@
 
 
 ## MENU
+
+[[Note 2- Daisugi in Nakagawakitayamacho\|Note 2- Daisugi in Nakagawakitayamacho]]
+
 [[📁PROJECT/EPFL/CONNECTED/MOC epfl\|MOC epfl]]
 [[📁PROJECT/EPFL/Topics/Imaginaire et anthropocène/15. Imaginaire et anthropocène\|15. Imaginaire et anthropocène]]
 
