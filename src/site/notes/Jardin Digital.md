@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Jardin Digital/"}
+{"dg-publish":true,"permalink":"/Jardin Digital/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Cet espace est mon Jardin digital où se nichent mes notes.

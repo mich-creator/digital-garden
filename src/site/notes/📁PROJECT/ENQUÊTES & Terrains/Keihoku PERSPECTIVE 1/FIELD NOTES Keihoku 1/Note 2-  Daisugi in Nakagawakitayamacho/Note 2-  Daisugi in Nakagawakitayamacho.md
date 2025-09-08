@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/📁PROJECT/ENQUÊTES & Terrains/Keihoku PERSPECTIVE 1/FIELD NOTES Keihoku 1/Note 2-  Daisugi in Nakagawakitayamacho/Note 2-  Daisugi in Nakagawakitayamacho/"}
+{"dg-publish":true,"permalink":"/📁PROJECT/ENQUÊTES & Terrains/Keihoku PERSPECTIVE 1/FIELD NOTES Keihoku 1/Note 2-  Daisugi in Nakagawakitayamacho/Note 2-  Daisugi in Nakagawakitayamacho/","noteIcon":""}
 ---
 
 
